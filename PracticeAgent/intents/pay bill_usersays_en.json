@@ -1,0 +1,110 @@
+[
+  {
+    "id": "214bd0c5-29eb-4e9f-a581-a30952ced1ca",
+    "data": [
+      {
+        "text": "pay a ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103364
+  },
+  {
+    "id": "0fdfda21-e748-4ae8-b423-b4fdf76505ca",
+    "data": [
+      {
+        "text": "I want to pay my bills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103364
+  },
+  {
+    "id": "d7e7d38e-d786-4bf5-98fd-3992c1142477",
+    "data": [
+      {
+        "text": "resolve ",
+        "userDefined": false
+      },
+      {
+        "text": "bills",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103364
+  },
+  {
+    "id": "bc5cdc3f-8009-49f6-8c14-628249911f5b",
+    "data": [
+      {
+        "text": "manage ",
+        "userDefined": false
+      },
+      {
+        "text": "bills",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103364
+  },
+  {
+    "id": "39a97845-0f84-415a-a87d-3d6d393d66ac",
+    "data": [
+      {
+        "text": "pay ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103364
+  },
+  {
+    "id": "c991872d-e763-4fef-9f9a-10de1813d8dc",
+    "data": [
+      {
+        "text": "pay my bills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103364
+  },
+  {
+    "id": "3d7876b6-7f27-4569-b5d3-359f1b0e9b1c",
+    "data": [
+      {
+        "text": "I want to pay my bill.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540085628
+  }
+]

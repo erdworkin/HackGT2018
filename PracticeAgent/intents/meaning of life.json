@@ -1,0 +1,28 @@
+{
+  "id": "f5c0728f-621d-44b1-a052-9ae4f3b21ce4",
+  "name": "meaning of life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "101010"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540087095,
+  "fallbackIntent": false,
+  "events": []
+}

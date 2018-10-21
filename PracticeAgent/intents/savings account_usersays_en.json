@@ -1,0 +1,98 @@
+[
+  {
+    "id": "78d4963c-9753-4681-890c-50a1dc6cc1fd",
+    "data": [
+      {
+        "text": "What\u0027s in my savings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540105722
+  },
+  {
+    "id": "a7dfe9b7-c1ee-45a1-8322-a429412285cf",
+    "data": [
+      {
+        "text": "\"savings\"savings account\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540075983
+  },
+  {
+    "id": "3b688e49-518a-480d-a3e8-2ecdce1de3da",
+    "data": [
+      {
+        "text": "\"how\"how about my savings account\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540075983
+  },
+  {
+    "id": "2fa4e026-7f17-4bd9-b8c1-1cde1de35286",
+    "data": [
+      {
+        "text": "\"savings\"savings balance\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540070066
+  },
+  {
+    "id": "f082b80a-ddea-4dc2-a783-2980c8dbfd9d",
+    "data": [
+      {
+        "text": "\"what\"what\u0027s in my savings\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540070066
+  },
+  {
+    "id": "8f9fe998-eeba-41c5-b122-6f5e68dcd7e6",
+    "data": [
+      {
+        "text": "\"savings\"savings account balance\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540070066
+  },
+  {
+    "id": "9cd0e5ec-a88b-49c5-9063-66e011ed3b6a",
+    "data": [
+      {
+        "text": "\"savings\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540070066
+  },
+  {
+    "id": "a5eb8bd1-52ea-4e4d-aaaf-b3956d352bf6",
+    "data": [
+      {
+        "text": "\"what\"what is my savings account balance\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540070066
+  }
+]

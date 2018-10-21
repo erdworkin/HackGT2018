@@ -1,0 +1,36 @@
+{
+  "id": "0e02f6a9-6f19-4452-9018-3e2bf62ad9a9",
+  "name": "pay bill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e12ef645-34d5-43a4-82cb-7fe4f59a369f",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540103364,
+  "fallbackIntent": false,
+  "events": []
+}

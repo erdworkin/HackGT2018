@@ -1,0 +1,318 @@
+[
+  {
+    "id": "01ca2024-f599-4fe7-8644-6c1419f2f908",
+    "data": [
+      {
+        "text": "transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "100 dollars",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "alias": "c1",
+        "meta": "@account",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540097877
+  },
+  {
+    "id": "cd7bf518-4004-41eb-a952-a6bc21e5283b",
+    "data": [
+      {
+        "text": "transfer ",
+        "userDefined": false
+      },
+      {
+        "text": "10 dollars",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "c1",
+        "meta": "@account",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540097877
+  },
+  {
+    "id": "7f9d002a-a51c-4784-bcd4-1d28b55766b2",
+    "data": [
+      {
+        "text": "transfer from ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "c0c94e5f-7322-49ff-b9f7-24c723fc9602",
+    "data": [
+      {
+        "text": "transfer from ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "4aab718c-747f-4943-a0cd-318abf1dee1d",
+    "data": [
+      {
+        "text": "transfer money to my ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "ae2125bb-4cc3-4d3e-90aa-ca8e1528514d",
+    "data": [
+      {
+        "text": "transfer money from my ",
+        "userDefined": false
+      },
+      {
+        "text": "checking account",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "9c841337-be84-4d74-903c-497c7e482de1",
+    "data": [
+      {
+        "text": "transfer money from my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "4e1615af-b78a-4548-a189-1aa4cca267db",
+    "data": [
+      {
+        "text": "transfer to ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "0ed941fd-b846-48f9-b972-db6cb0ff8180",
+    "data": [
+      {
+        "text": "transfer to ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "91407eda-eb54-41e1-85f4-d69b2efaa3de",
+    "data": [
+      {
+        "text": "move to ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "be658c15-c80c-4e0e-8708-df022b5edacd",
+    "data": [
+      {
+        "text": "move to ",
+        "userDefined": false
+      },
+      {
+        "text": "checking account",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "bbf02277-1500-4aab-93ed-ad1c4aa11af5",
+    "data": [
+      {
+        "text": "move from ",
+        "userDefined": false
+      },
+      {
+        "text": "savings account",
+        "alias": "c",
+        "meta": "@account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540088094
+  },
+  {
+    "id": "f0f49a2f-834d-4aa9-8ae5-9780c37b5b5e",
+    "data": [
+      {
+        "text": "move from checking account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540086315
+  },
+  {
+    "id": "ec53d399-e4be-433f-9237-7433dfb70f9e",
+    "data": [
+      {
+        "text": "move to account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540086315
+  },
+  {
+    "id": "6c31310b-9421-403d-97b9-f59b358167b4",
+    "data": [
+      {
+        "text": "move money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540086315
+  },
+  {
+    "id": "b4eb2281-8b0c-464d-8bec-967aedcbc6e3",
+    "data": [
+      {
+        "text": "Transfer money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540086315
+  },
+  {
+    "id": "51b6b125-854a-404b-9490-b928a47bee09",
+    "data": [
+      {
+        "text": "Transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540086315
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7442ac6c-23de-43a2-9418-719ae4960ad7",
+    "data": [
+      {
+        "text": "\"checking\"checking balance\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062713
+  },
+  {
+    "id": "15ff143d-1a4f-4e19-8e05-19580d35896c",
+    "data": [
+      {
+        "text": "\"checking\"checking account balance\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062713
+  },
+  {
+    "id": "c1b9d812-9f20-435b-8e3a-9035bc525a55",
+    "data": [
+      {
+        "text": "\"How\"How much money is in my checking account?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062713
+  },
+  {
+    "id": "75e50ed2-bc8f-4c58-a774-8636a5cc7d53",
+    "data": [
+      {
+        "text": "\"checking\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062713
+  },
+  {
+    "id": "e53f172c-405a-46a0-8b70-ab4cf9962141",
+    "data": [
+      {
+        "text": "\"checking\"checking account\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062713
+  },
+  {
+    "id": "ae68b4e7-7568-4dbb-95a7-bc11f4ac5081",
+    "data": [
+      {
+        "text": "\"What\"What is in my checking account?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062713
+  }
+]

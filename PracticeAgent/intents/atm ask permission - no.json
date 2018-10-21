@@ -1,0 +1,33 @@
+{
+  "id": "48327bc9-bb63-47c0-ba16-304ec2d0c7f9",
+  "parentId": "067781f9-9462-47e9-b108-6c63bf8a582f",
+  "rootParentId": "067781f9-9462-47e9-b108-6c63bf8a582f",
+  "name": "atm ask permission - no",
+  "auto": true,
+  "contexts": [
+    "atmaskpermission-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "atmaskpermission.atmaskpermission-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540079050,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b026fe4c-5fe9-4a2f-bc5b-e1ec4b04b5e1",
+    "data": [
+      {
+        "text": "\"account balance\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540062579
+  },
+  {
+    "id": "f21265a2-3a46-4184-b00f-fbaac35df5b0",
+    "data": [
+      {
+        "text": "\"What is my account balance?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540045663
+  },
+  {
+    "id": "881178c2-5c68-4c95-bd00-9d3187e28cbe",
+    "data": [
+      {
+        "text": "\"What\u0027s in my account?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540045663
+  },
+  {
+    "id": "2d8548b7-b95b-4907-9a61-35d42b929a6e",
+    "data": [
+      {
+        "text": "\"How much money is in my account?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1540045620
+  },
+  {
+    "id": "aae18c7f-edcc-4d34-9cbc-88d115fc0b88",
+    "data": [
+      {
+        "text": "\"how\"how much money do I have?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540045620
+  }
+]

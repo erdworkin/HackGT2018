@@ -1,0 +1,35 @@
+{
+  "id": "bb8e27a8-9e01-4b25-96c4-2cd6cfd3e2f1",
+  "name": "saving money",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "A penny saved is a penny earned.",
+            "Money is not the only answer but it makes a difference!",
+            "Save a little every day, you can do it!",
+            "The circulation of confidence is better than the circulation of money.",
+            "If you want to feel rich, just count the things you have that money can\u0027t buy.",
+            "There\u0027s a gigantic difference between earning a great deal of money and being rich."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540091333,
+  "fallbackIntent": false,
+  "events": []
+}

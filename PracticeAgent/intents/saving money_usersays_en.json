@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73d0c015-3d3e-4fb5-8c48-3c8e3167477c",
+    "data": [
+      {
+        "text": "I wish I had more money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091333
+  },
+  {
+    "id": "5b4709ee-ce82-4970-a8ed-1824af93d10e",
+    "data": [
+      {
+        "text": "I wish I was rich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  },
+  {
+    "id": "005ade2d-5aa8-4aa5-a86e-cb813bf20771",
+    "data": [
+      {
+        "text": "I want more money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  },
+  {
+    "id": "73fe44c2-fd75-4f77-96b9-ab8a53d33c98",
+    "data": [
+      {
+        "text": "I\u0027m so poor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  },
+  {
+    "id": "e7c02941-526c-49fa-add0-4339dc33b655",
+    "data": [
+      {
+        "text": "I\u0027m so broke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  },
+  {
+    "id": "30e94dab-0542-42a6-8477-f58c0dcee462",
+    "data": [
+      {
+        "text": "Can I be rich now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  },
+  {
+    "id": "97cfece8-0a76-4c37-a7d8-9754402c74a5",
+    "data": [
+      {
+        "text": "Will I be rich soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  },
+  {
+    "id": "b2fadac2-0d83-4bde-80d8-d0a1ac22cce6",
+    "data": [
+      {
+        "text": "Am I rich yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540091317
+  }
+]

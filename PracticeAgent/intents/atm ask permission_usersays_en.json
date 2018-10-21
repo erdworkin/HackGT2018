@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17069f99-2385-4e5e-b908-c7a569d8d97f",
+    "data": [
+      {
+        "text": "are there nearby atms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "f5745079-2780-4170-8bee-7433c251d04e",
+    "data": [
+      {
+        "text": "where is a nearby atm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "3504eb41-1eb4-4c38-86af-b16f0e80ce31",
+    "data": [
+      {
+        "text": "atm nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "9c3af6f7-a9d2-4591-bcd7-c57045cc0acd",
+    "data": [
+      {
+        "text": "\"where\"where is the closest atm\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "d3d91a88-6ef1-48ea-82ed-1c4d0a09ce50",
+    "data": [
+      {
+        "text": "where is an atm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "8b4d1823-670c-48de-bd9a-0f67c131abd6",
+    "data": [
+      {
+        "text": "closest atm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "a993314a-6eda-4fba-bf00-2d82386fdd81",
+    "data": [
+      {
+        "text": "\"nearest\"nearest atm\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  },
+  {
+    "id": "2fbbea40-af2e-47ec-8fdc-9a9e7c017604",
+    "data": [
+      {
+        "text": "where is the nearest atm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540078948
+  }
+]

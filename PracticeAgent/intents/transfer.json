@@ -1,0 +1,132 @@
+{
+  "id": "c9a04569-69d5-427a-9313-8af7c64662e9",
+  "name": "transfer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "atmaskpermission.atmaskpermission-yeswhere",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2a7cb92f-db54-4092-a270-03d6abbec665",
+          "required": true,
+          "dataType": "@account",
+          "name": "sourceAccount",
+          "value": "$sourceAccount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which account would you like to transfer money from?"
+            },
+            {
+              "lang": "en",
+              "value": "From which account do you want to transfer money?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ba5166f3-595f-4959-9f78-074be8f415b4",
+          "required": true,
+          "dataType": "@account",
+          "name": "destinationAccount",
+          "value": "$destinationAccount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which account would you like to transfer money to?"
+            },
+            {
+              "lang": "en",
+              "value": "To which account?"
+            },
+            {
+              "lang": "en",
+              "value": "Transfer money into which account?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0f2fb0d7-6d45-43b6-b484-1d9900a327ba",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "name": "amount",
+          "value": "$amount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How much would you like to transfer?"
+            },
+            {
+              "lang": "en",
+              "value": "How much should I transfer for you?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "1b76807e-ebf0-4b39-87de-d73c2067c507",
+          "required": false,
+          "dataType": "@account",
+          "name": "c",
+          "value": "$c",
+          "isList": false
+        },
+        {
+          "id": "1bf4f222-3668-430d-99ca-69bf6340899d",
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "isList": false
+        },
+        {
+          "id": "1ab3cb51-3c69-4111-b47d-7d428e5e5079",
+          "dataType": "@account",
+          "name": "c1",
+          "value": "$c1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "textToSpeech": "Okay, transfer completed."
+            },
+            {
+              "textToSpeech": "All done!"
+            },
+            {
+              "textToSpeech": "Consider it done."
+            },
+            {
+              "textToSpeech": "It\u0027s taken care of!"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "consider it done.",
+            "okay, I\u0027ll transfer the funds."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540097877,
+  "fallbackIntent": false,
+  "events": []
+}

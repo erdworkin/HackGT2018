@@ -1,0 +1,112 @@
+[
+  {
+    "id": "b3860ebe-becd-425b-bed6-59d073b0b4c7",
+    "data": [
+      {
+        "text": "\"my\"my favorite color is ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540040011
+  },
+  {
+    "id": "8feb421a-ff7a-4c43-837a-9745a4adbcb0",
+    "data": [
+      {
+        "text": " \"",
+        "userDefined": false
+      },
+      {
+        "text": "Pink",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540040011
+  },
+  {
+    "id": "ed6b67ea-4923-4fa1-9fba-3d3cc294512f",
+    "data": [
+      {
+        "text": " \"i\"i love ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": "\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540040011
+  },
+  {
+    "id": "93c4558e-f49b-4bc4-bd73-1811523d3c5d",
+    "data": [
+      {
+        "text": "\"",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite color\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540040011
+  },
+  {
+    "id": "8a6b1e04-6d97-498e-87ce-f8e8ac657bd0",
+    "data": [
+      {
+        "text": "\"",
+        "userDefined": false
+      },
+      {
+        "text": "purple",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540040011
+  }
+]

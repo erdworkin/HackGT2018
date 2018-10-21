@@ -1,0 +1,110 @@
+[
+  {
+    "id": "58993e88-f264-4ff8-8a6f-2a4ae1bd5d12",
+    "data": [
+      {
+        "text": "what do I owe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "bf2ff207-d70d-4cd7-a24d-874642a7f964",
+    "data": [
+      {
+        "text": "how many loans do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "c643df1e-b894-4934-aca3-da0fe0ea952c",
+    "data": [
+      {
+        "text": "how much loans do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "50f7ddb9-1dbf-4bbb-9fbe-b46e3e2215df",
+    "data": [
+      {
+        "text": "what are my total loans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "87d26c95-cb51-4ae6-82ea-43e582bc97d0",
+    "data": [
+      {
+        "text": "total loans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "73116c28-21ab-46a8-ad5e-3083ae779891",
+    "data": [
+      {
+        "text": "loans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "0b4d7eb5-f040-4f5c-8434-da770191a3cc",
+    "data": [
+      {
+        "text": "what are my loans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "a13f3760-37f2-4483-b2d6-c1ea2a503de2",
+    "data": [
+      {
+        "text": "how much money do I owe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  },
+  {
+    "id": "34f16984-e9c4-4f35-b8f3-a4b4a5b1ce05",
+    "data": [
+      {
+        "text": "How much are my loans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540087355
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "9bdecd09-16a0-4c59-a0cc-238f908886a2",
+  "name": "total loans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540087355,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "0ebd7b0e-0913-463c-95b0-055f0b19088e",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thanks for chatting!",
+            "Goodbye! Always remember a penny a day, is a penny earned!",
+            "Have a great day!",
+            "Stay awesome!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540083111,
+  "fallbackIntent": false,
+  "events": []
+}

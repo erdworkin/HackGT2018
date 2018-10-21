@@ -1,0 +1,160 @@
+[
+  {
+    "id": "15235042-b995-410f-bba9-7e43ead8c888",
+    "data": [
+      {
+        "text": "Do I have bills due soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540105706
+  },
+  {
+    "id": "ab26f693-afa9-4077-b565-080868a81780",
+    "data": [
+      {
+        "text": "what bills do I have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103433
+  },
+  {
+    "id": "d4904da8-62b6-4119-adf7-4dc0adb5279d",
+    "data": [
+      {
+        "text": "What are my bills",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540103433
+  },
+  {
+    "id": "c2d8d95e-37fd-48e8-b427-c94b5f5921f9",
+    "data": [
+      {
+        "text": "What day do I have to pay my bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "64fd2ac2-9d90-444d-b340-91227205c2b2",
+    "data": [
+      {
+        "text": "What date is my bill due?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "29ccaccd-59ef-40bd-a134-f54a9c0b41a0",
+    "data": [
+      {
+        "text": "Do I have to pay my bill soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "b323c051-5df2-4cb0-8c21-e276abccd843",
+    "data": [
+      {
+        "text": "Is my bill due soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "be36739e-e905-41b6-b110-3625a4d5a32c",
+    "data": [
+      {
+        "text": "By when do I have to pay my bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "2b2c46df-999f-464b-85bf-987fd5a048e8",
+    "data": [
+      {
+        "text": "When do I have to resolve my account balance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "a33e0778-ed14-4a34-96d5-0f4926565738",
+    "data": [
+      {
+        "text": "When do I have to pay my bill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "ee45a8ba-5642-4005-9d60-22d643653244",
+    "data": [
+      {
+        "text": "When is my bill due?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "45d2a954-ac14-4d31-9f7c-bb18fac0c0bd",
+    "data": [
+      {
+        "text": "bill due",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  },
+  {
+    "id": "7e0f9952-4fe7-4554-a74a-8e8d30f8f8a3",
+    "data": [
+      {
+        "text": "bill",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540067169
+  }
+]
